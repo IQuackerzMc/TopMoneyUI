@@ -1,2 +1,2 @@
 # TopMoneyUI
-Shows richest players in a ui format
+Shows richest players in a ui format yeye
